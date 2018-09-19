@@ -49,8 +49,6 @@
 127.0.0.1 redirector.googlevideo.com
 127.0.0.1 rtd.tubemogul.com
 127.0.0.1 s.innovid.com
-127.0.0.1 s.youtube.com
-127.0.0.1 s.ytimg.com
 127.0.0.1 s0.2mdn.net
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 securepubads.g.doubleclick.net
